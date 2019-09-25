@@ -92,4 +92,5 @@ public class HotelTest {
         //Then it is vacant
         assertEquals(this.hotel.getBedrooms(), hotel.vacantRooms());
     }
+    
 }
